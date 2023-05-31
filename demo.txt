@@ -1,0 +1,8 @@
+GCP Bucket :
+hazel-env-382411
+
+To Run fastapi
+uvicorn main:app --reload
+
+To deploy in docker
+docker run -t --rm -p 8501:8501 -v D:\resume_Projects\Potato_disease_classify_DL:/Potato_disease_classify_DL tensorflow/serving --rest_api_port=8501 --model_config_file=/Potato_disease_classify_DL/models.config
