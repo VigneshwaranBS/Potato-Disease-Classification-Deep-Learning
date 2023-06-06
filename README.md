@@ -1,5 +1,3 @@
-# Potato-Disease-Classification-Deep-Learning
-
 # Potato Disease Classification Deep Learning
 
 This repository contains a deep learning-based potato disease classification system, with a web interface built using Flask for the backend and React.js for the frontend.
@@ -95,9 +93,6 @@ When contributing, please adhere to the following guidelines:
 - Test your changes thoroughly before submitting a pull request.
 - Be respectful and considerate in all interactions.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to modify and use the code in accordance with the license terms.
 
 ## Acknowledgments
 
