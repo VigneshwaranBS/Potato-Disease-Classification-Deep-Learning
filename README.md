@@ -41,7 +41,7 @@ To get started with the project, follow these steps:
    - Run the Flask development server:
 
      ```bash
-     python app.py
+     python main.py
      ```
 
 3. Set up the frontend:
