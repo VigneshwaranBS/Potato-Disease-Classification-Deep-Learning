@@ -29,7 +29,7 @@ To get started with the project, follow these steps:
    - Navigate to the backend directory:
 
      ```bash
-     cd Potato-Disease-Classification-Deep-Learning/backend
+     cd Potato-Disease-Classification-Deep-Learning/api
      ```
 
    - Install the required Python packages:
